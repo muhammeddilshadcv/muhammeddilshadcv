@@ -11,22 +11,21 @@
 
 ### 🛰️ Featured Projects
 
-- 🔐 **Smart Garage Door System**  
+- 🔥 **Early Forest Fire Detection and Prediction System**  
+  Temperature, Humidity, Flame, Wind Speed and Direction Sensors + ESP32 + Real-time Alerts
+
+- 🔐 **Smart Garage Door System with Two step Authentication**  
   RFID + Number Plate Recognition + ESP32 + Web Interface
 
-- 🔥 **Early Forest Fire Detection System**  
-  Wind & Temperature Sensors + ESP32 + Real-time Alerts
-
 - 🏥 **LATROS Flow (Hospital Kiosk)**  
-  Touchscreen UI + Sensors + Real-time Medical Check-up Reports
+  Touchscreen UI + Sensors + Real-time Medical Check-up Reports + All time medical Report of the patient Database
 
 ---
 
 ### 📫 How to Reach Me
 
-- 📧 Email: connectwithdilshad@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- 🧑‍💻 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 📧 Email: muhammeddilshaddcv@gmail.com  
+- 🌐 LinkedIn: www.linkedin.com/in/muhammed-dilshad-c-v-7a2b3a252 
 
 ---
 
@@ -49,14 +48,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
-</p>
-
----
-
-<h4 align="center">Let's build something intelligent together! 💡</h4>
